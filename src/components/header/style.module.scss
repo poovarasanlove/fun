@@ -1,0 +1,11 @@
+@import '../../helpers/variables.scss';
+.header{
+    background-color: $tertiary-blue;    
+    color: $primary-blue;
+    ul{
+        list-style: none;
+    }
+    li{
+        margin-left: 10px;
+    }
+}
